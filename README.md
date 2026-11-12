@@ -87,7 +87,7 @@ flowchart LR
 **1. Install**
 
 ```bash
-git clone https://github.com/daaanedits/gauntlet-loop-MAX.git
+git clone https://github.com/daanv310/gauntlet-loop-MAX.git
 mkdir -p ~/.claude/skills
 cp -r gauntlet-loop-MAX/.claude/skills/gauntlet-loop-max ~/.claude/skills/
 ```
